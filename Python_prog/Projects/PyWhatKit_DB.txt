@@ -1,0 +1,30 @@
+Date: 22/6/2025
+Time: 21:43
+Phone Number: +918660168745
+Message: What's up Macha
+--------------------
+Date: 22/6/2025
+Time: 21:45
+Phone Number: +918660168745
+Message: What's up Macha
+--------------------
+Date: 22/6/2025
+Time: 21:47
+Phone Number: +919819165438
+Message: What's up Macha,This is an automated message using python
+--------------------
+Date: 22/6/2025
+Time: 21:52
+Phone Number: +917204478891
+Message: het this is a coded message trial
+--------------------
+Date: 23/6/2025
+Time: 6:18
+Phone Number: +916361123426
+Message: this is a coded message trial
+--------------------
+Date: 23/6/2025
+Time: 6:19
+Phone Number: +916361123426
+Message: this is a coded message trial
+--------------------
